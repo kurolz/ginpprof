@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/kurolz/gin"
 
-	"github.com/DeanThompson/ginpprof"
+	"github.com/kurolz/ginpprof"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gin-gonic/gin"
+	"github.com/kurolz/gin"
 )
 
 func newServer() *gin.Engine {
